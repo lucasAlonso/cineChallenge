@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/cineChallenge/static/css/main.4c432f6e.css",
-    "main.js": "/cineChallenge/static/js/main.8732259c.js",
+    "main.js": "/cineChallenge/static/js/main.ca785cf6.js",
     "index.html": "/cineChallenge/index.html",
     "main.4c432f6e.css.map": "/cineChallenge/static/css/main.4c432f6e.css.map",
-    "main.8732259c.js.map": "/cineChallenge/static/js/main.8732259c.js.map"
+    "main.ca785cf6.js.map": "/cineChallenge/static/js/main.ca785cf6.js.map"
   },
   "entrypoints": [
     "static/css/main.4c432f6e.css",
-    "static/js/main.8732259c.js"
+    "static/js/main.ca785cf6.js"
   ]
 }
