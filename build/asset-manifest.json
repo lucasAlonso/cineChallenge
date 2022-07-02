@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cineChallenge/static/css/main.4c432f6e.css",
+    "main.js": "/cineChallenge/static/js/main.f693fa98.js",
+    "index.html": "/cineChallenge/index.html",
+    "main.4c432f6e.css.map": "/cineChallenge/static/css/main.4c432f6e.css.map",
+    "main.f693fa98.js.map": "/cineChallenge/static/js/main.f693fa98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c432f6e.css",
+    "static/js/main.f693fa98.js"
+  ]
+}

@@ -12,7 +12,10 @@ function Listado(props) {
   const handleStarClick = (e, index) => {
     e.preventDefault();
     let clickStates = [...clicked];
-    if (clicked[index] === true) {
+    if (
+      (clicked[index] === true && clicked[index + 1] === false) ||
+      (clicked[index] === true && index === 4)
+    ) {
       setClicked(defaultStars);
       setRate([0, 10]);
     } else {
