@@ -70,7 +70,7 @@ function Listado(props) {
             oneMovie.vote_average < rate[1]
           ) {
             return (
-              <div className="col-3" key={idx}>
+              <div className="col-xs-12 col-sm-3 " key={idx}>
                 <div className="card my-4">
                   <Link to={`/detalle?movieID=${oneMovie.id}`}>
                     <img

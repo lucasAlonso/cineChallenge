@@ -87,7 +87,7 @@ function Resultados(props) {
             oneMovie.vote_average < rate[1]
           ) {
             return (
-              <div className="col-4" key={idx}>
+              <div className="col-xs-12 col-sm-3" key={idx}>
                 <div className="card my-4">
                   <img
                     src={
